@@ -14,3 +14,8 @@
     background-color: yellow;
     padding: 10px;
 }
+
+.h2::selection{
+    background-color: aquamarine;
+    color: white;
+}
